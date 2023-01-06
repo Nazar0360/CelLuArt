@@ -1,2 +1,2 @@
-# CelLuArt
-CelLuArt is a tool that allows you to convert images to CelLua code
+# CelLua K3 code editor
+Tool that allows you to edit CelLua K3 code
